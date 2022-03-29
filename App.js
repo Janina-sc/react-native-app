@@ -13,6 +13,7 @@ import {
 import * as ImagePicker from "expo-image-picker";
 import * as Sharing from "expo-sharing";
 import uploadToAnonymousFilesAsync from "anonymous-files";
+import Prueba from "./Prueba"
 
 const App = () => {
   const [selectedImage, setSelectedImage] = useState(null);
